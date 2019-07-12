@@ -6,4 +6,8 @@ public class FristClass {
         System.out.println(hhh);
         System.out.printf("dfg");
     }
+    public void test(){
+        int i=10;
+        i +=2；
+    }
 }
